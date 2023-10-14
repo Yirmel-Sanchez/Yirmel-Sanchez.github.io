@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="110px" height="701.25px" viewBox="0 0 110 701.25" enable-background="new 0 0 110 701.25" xml:space="preserve">
+<rect y="-1.193" fill="#FCDB5F" width="110.166" height="619.202"/>
+<rect x="-1.667" y="618.009" fill="#2B2A28" width="111.833" height="83.241"/>
+<rect x="18.711" y="151.706" fill="none" width="57.886" height="233.613"/>
+<text transform="matrix(-1.346898e-010 1 -1 -1.346898e-010 61.0928 161.7031)" font-family="'MyriadPro-Semibold'" font-size="42.9633">Object-Oriented</text>
+<rect y="67.333" fill="#FFFEFD" width="109.665" height="72.807"/>
+<rect x="1.808" y="95.652" fill="none" width="107.857" height="22.488"/>
+<text transform="matrix(1 0 0 1 22.7148 112.8115)" font-family="'MyriadPro-Regular'" font-size="24.1668">Meyer</text>
+<rect x="0.921" y="666.57" fill="none" width="107.466" height="12.521"/>
+<text transform="matrix(1 0 0 1 22.2109 678.0078)" fill="#DD1414" font-family="'MyriadPro-Regular'" font-size="16.1112">PRENTICE</text>
+<rect x="1.425" y="680.658" fill="none" width="106.961" height="12.52"/>
+<text transform="matrix(1 0 0 1 40.0869 690.1885)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="13.426">HALL</text>
+<circle fill="#DD1414" cx="49.254" cy="636.135" r="4.027"/>
+<circle fill="#DD1414" cx="59.995" cy="636.135" r="4.027"/>
+<circle fill="#DD1414" cx="49.254" cy="646.875" r="4.028"/>
+<circle fill="#DD1414" cx="59.995" cy="646.875" r="4.028"/>
+<circle fill="#DD1414" cx="49.254" cy="657.615" r="4.028"/>
+<circle fill="#FFFFFF" cx="59.995" cy="657.615" r="4.028"/>
+<path fill="#DD1414" d="M56.631,649.087c0,0-0.951-1.079-1.96-1.079c-1.007,0-1.96,0.939-1.96,0.939v-4.133
+	c0,0,1.015,0.678,1.938,0.678c0.924,0,1.985-0.831,1.985-0.831v4.426H56.631z"/>
+<text transform="matrix(-1.346898e-010 1 -1 -1.346898e-010 24.7114 161.7031)" font-family="'MyriadPro-Semibold'" font-size="30">Software Construction</text>
+</svg>
